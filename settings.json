@@ -1,0 +1,25 @@
+// Place your settings in this file to overwrite the default settings
+{
+	"editor.fontSize": 14,
+	"editor.lineHeight": 20,
+	"css.lint.emptyRules": "warning",
+	"editor.tabSize": 2,
+	"editor.fontFamily": "Fira Code",
+	"editor.fontLigatures": true,
+	"files.trimTrailingWhitespace": true,
+	"editor.renderWhitespace": false,
+	"editor.lineNumbers": true,
+	"diffEditor.renderSideBySide": true,
+	"files.autoSave": "afterDelay",
+	"editor.folding": false,
+	"svgviewer.transparencygrid": false,
+	"explorer.openEditors.visible": 0,
+	"workbench.editor.enablePreview": false,
+	"git.autofetch": true,
+	"workbench.editor.showTabs": false,
+	"window.openFilesInNewWindow": true,
+	"terminal.integrated.cursorBlinking": false,
+	"editor.tabCompletion": true,
+	"http.proxyStrictSSL": true,
+	"workbench.settings.openDefaultSettings": false
+}
